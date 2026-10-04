@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project Dashboard</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Engineering activity</p>
+        <h1>Project Dashboard</h1>
+        <p id="period" class="muted">Loading report…</p>
+      </div>
+      <div class="status-pill" id="health">Loading</div>
+    </header>
+
+    <section class="metrics" id="metrics"></section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Attention required</h2>
+      </div>
+      <div id="attention" class="attention-list"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Repository activity</h2>
+        <input id="search" type="search" placeholder="Filter repositories…" aria-label="Filter repositories" />
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Repository</th>
+              <th>Commits</th>
+              <th>Issues closed</th>
+              <th>PRs merged</th>
+              <th>Failed CI</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="repo-rows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head"><h2>Recent delivery</h2></div>
+      <div id="recent" class="recent-grid"></div>
+    </section>
+  </main>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
