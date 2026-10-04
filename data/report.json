@@ -1,37 +1,252 @@
 {
-  "generated_at": "2026-10-04T13:58:00+01:00",
+  "generated_at": "2026-10-04T19:27:03.819835+00:00",
   "period": {
-    "label": "Sample 7-day report",
-    "start": "2026-09-28",
+    "label": "Live 7-day GitHub report",
+    "start": "2026-09-27",
     "end": "2026-10-04"
   },
   "summary": {
-    "repositories": 6,
-    "commits": 42,
-    "issues_created": 11,
-    "issues_closed": 9,
-    "prs_created": 8,
-    "prs_merged": 6,
-    "comments": 27,
-    "failed_actions": 2
+    "repositories": 17,
+    "commits": 65,
+    "issues_created": 27,
+    "issues_closed": 11,
+    "prs_created": 31,
+    "prs_merged": 26,
+    "comments": 0,
+    "failed_actions": 11
   },
   "attention": [
-    {"severity": "error", "message": "mlx-broker has 1 failed CI run."},
-    {"severity": "warning", "message": "workhub is ahead of origin by 2 commits."},
-    {"severity": "warning", "message": "agent-fabric has uncommitted changes."}
+    {
+      "severity": "error",
+      "message": "project-dashboard has 11 failing workflow run(s) in the last 7 days."
+    }
   ],
   "repositories": [
-    {"name": "workhub", "commits": 12, "issues_closed": 3, "prs_merged": 2, "failed_actions": 0, "dirty": false, "sync_state": "ahead"},
-    {"name": "agent-fabric", "commits": 9, "issues_closed": 2, "prs_merged": 1, "failed_actions": 0, "dirty": true, "sync_state": "synchronized"},
-    {"name": "mlx-broker", "commits": 8, "issues_closed": 2, "prs_merged": 1, "failed_actions": 1, "dirty": false, "sync_state": "synchronized"},
-    {"name": "jury-opencode", "commits": 5, "issues_closed": 1, "prs_merged": 1, "failed_actions": 0, "dirty": false, "sync_state": "synchronized"},
-    {"name": "model-benchmarks-local-mlx", "commits": 6, "issues_closed": 1, "prs_merged": 1, "failed_actions": 1, "dirty": false, "sync_state": "synchronized"},
-    {"name": "scripts", "commits": 2, "issues_closed": 0, "prs_merged": 0, "failed_actions": 0, "dirty": false, "sync_state": "synchronized"}
+    {
+      "name": ".github",
+      "description": "Default GitHub engineering standards and issue forms",
+      "commits": 37,
+      "issues_closed": 11,
+      "prs_merged": 18,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": "github-privacy-intake",
+      "description": "Privacy Intake Application - FastAPI based privacy case management",
+      "commits": 2,
+      "issues_closed": 0,
+      "prs_merged": 2,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": "github-forge-pipeline",
+      "description": "Master planning and tracking for Forge workstreams using GitHub Projects V2",
+      "commits": 2,
+      "issues_closed": 0,
+      "prs_merged": 2,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": "forge-cloud-control-desk",
+      "description": "A lightweight internal operations platform that uses Compute Engine API as the execution layer and Google Workspace/Enterprise APIs as the workflow, evidence, and reporting layer.",
+      "commits": 2,
+      "issues_closed": 0,
+      "prs_merged": 2,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": "devhome-firewall",
+      "description": "# A firewall blacklist composed from IP lists, providing  # maximum protection with minimum false positives. Suitable  # for basic protection on all internet facing servers,  # routers and firewalls. (includes: bambenek_c2 dshield feodo  # fullbogons spamhaus_drop spamhaus_edrop sslbl ransomware_rw)",
+      "commits": 2,
+      "issues_closed": 0,
+      "prs_merged": 2,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": "project-dashboard",
+      "description": "No description.",
+      "commits": 20,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 11,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "red"
+    },
+    {
+      "name": "comfyui-mac",
+      "description": "No description.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "zen-tei",
+      "description": "HuggingFace Text Embeddings Inference (TEI) rerank + embed servers for zen \u2014 supervised LaunchAgents, Apple Silicon Metal acceleration, tailnet-bound.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "plex-tools",
+      "description": "Python utilities for bulk Plex library management \u2014 artwork, summaries, match fixes, merge/split operations",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "tmux-setup",
+      "description": "Homelab config + setup notes for titan (Plex / Posterizarr / VNC / tmux)",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "forge-email-server",
+      "description": "No description.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "display-forge",
+      "description": "Generic digital signage for halls, lodges, community centers \u2014 themes, schedules, notices, emergency alerts",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "forge-auth",
+      "description": "Self-hosted SSO infrastructure for Forge ecosystem - Authentik deployment and configuration",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "Forge",
+      "description": "No description.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "SubProcessor-List",
+      "description": "No description.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "New-Website-Landing-Page",
+      "description": "No description.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "stuartharker",
+      "description": "No description.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    }
   ],
   "recent": {
-    "merged_prs": ["workhub #97 — TDD workflow integration", "mlx-broker #102 — routing safeguards"],
-    "closed_issues": ["agent-fabric #38 — verification defect", "jury-opencode #14 — reviewer packet truncation"],
-    "releases": ["No tagged releases in sample data"],
-    "changed_workfiles": ["workhub/TODO.md", "agent-fabric/docs/plan.md"]
+    "merged_prs": [
+      ".github #46 \u2014 fix(contract): guard every backward edge into READY \u2014 the #40 invariant was false as shipped",
+      ".github #41 \u2014 feat(contract): workitem/v4 \u2014 DONE reads the union, and a misfiled record can go back",
+      ".github #30 \u2014 fix(conformance): the declared gates must actually fire (not released \u2014 4 of 14 live records violate them)",
+      "github-privacy-intake #3 \u2014 [chore] Sync repository standards v1 (5371ef03)",
+      "github-privacy-intake #2 \u2014 [chore] Sync repository standards v1 (d65d8d54)",
+      "github-forge-pipeline #37 \u2014 [chore] Sync repository standards v1 (5371ef03)",
+      "github-forge-pipeline #36 \u2014 [chore] Sync repository standards v1 (d65d8d54)",
+      "forge-cloud-control-desk #3 \u2014 [chore] Sync repository standards v1 (5371ef03)",
+      "forge-cloud-control-desk #2 \u2014 [chore] Sync repository standards v1 (d65d8d54)",
+      "devhome-firewall #3 \u2014 [chore] Sync repository standards v1 (5371ef03)",
+      "devhome-firewall #2 \u2014 [chore] Sync repository standards v1 (d65d8d54)"
+    ],
+    "closed_issues": [
+      ".github #42 \u2014 [Contract] The no_criterion_met guard covered one edge into READY; FAILED->READY and BLOCKED->READY reached it in two hops",
+      ".github #31 \u2014 [Contract] a WorkItem can reach DONE with verification.required: [] and no review performed",
+      ".github #32 \u2014 [Contract] Cutting workitem-gate/v7 will red-line workhub's protected main: 5 live records violate the gates #29 makes real"
+    ],
+    "releases": [],
+    "changed_workfiles": []
   }
 }

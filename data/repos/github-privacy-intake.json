@@ -1,0 +1,63 @@
+{
+  "name": "github-privacy-intake",
+  "description": "Privacy Intake Application - FastAPI based privacy case management",
+  "github_url": "https://github.com/harkers/github-privacy-intake",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": "Python",
+  "direction": "ACTIVE DELIVERY",
+  "attention": "green",
+  "last_activity": "2026-10-04T15:48:51Z",
+  "stats": {
+    "commits_7d": 2,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 2,
+    "open_issues": 1,
+    "open_prs": 1,
+    "failed_actions_7d": 0
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [],
+  "health": {
+    "ci": true,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [
+    {
+      "time": "2026-10-04T15:48:52Z",
+      "text": "PR #3 merged \u2014 [chore] Sync repository standards v1 (5371ef03)"
+    },
+    {
+      "time": "2026-10-04T15:48:51Z",
+      "text": "commit 51d5f1c \u2014 chore: sync repository standards v1 (#3)"
+    },
+    {
+      "time": "2026-10-04T15:09:22Z",
+      "text": "commit 7d713e8 \u2014 chore: sync repository standards v1 (#2)"
+    },
+    {
+      "time": "2026-10-04T15:09:22Z",
+      "text": "PR #2 merged \u2014 [chore] Sync repository standards v1 (d65d8d54)"
+    }
+  ],
+  "work": {
+    "issues": [],
+    "prs": [
+      "#1 [chore] Sync repository standards v1 (cea6cf0c)"
+    ]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0
+  }
+}

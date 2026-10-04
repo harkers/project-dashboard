@@ -1,0 +1,63 @@
+{
+  "name": "forge-cloud-control-desk",
+  "description": "A lightweight internal operations platform that uses Compute Engine API as the execution layer and Google Workspace/Enterprise APIs as the workflow, evidence, and reporting layer.",
+  "github_url": "https://github.com/harkers/forge-cloud-control-desk",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": "Python",
+  "direction": "ACTIVE DELIVERY",
+  "attention": "green",
+  "last_activity": "2026-10-04T15:48:36Z",
+  "stats": {
+    "commits_7d": 2,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 2,
+    "open_issues": 1,
+    "open_prs": 1,
+    "failed_actions_7d": 0
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [],
+  "health": {
+    "ci": true,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [
+    {
+      "time": "2026-10-04T15:48:37Z",
+      "text": "PR #3 merged \u2014 [chore] Sync repository standards v1 (5371ef03)"
+    },
+    {
+      "time": "2026-10-04T15:48:36Z",
+      "text": "commit 220cc41 \u2014 chore: sync repository standards v1 (#3)"
+    },
+    {
+      "time": "2026-10-04T15:09:10Z",
+      "text": "commit 252c4a4 \u2014 chore: sync repository standards v1 (#2)"
+    },
+    {
+      "time": "2026-10-04T15:09:10Z",
+      "text": "PR #2 merged \u2014 [chore] Sync repository standards v1 (d65d8d54)"
+    }
+  ],
+  "work": {
+    "issues": [],
+    "prs": [
+      "#1 [chore] Sync repository standards v1 (cea6cf0c)"
+    ]
+  },
+  "github": {
+    "stars": 1,
+    "forks": 0,
+    "watchers": 1
+  }
+}

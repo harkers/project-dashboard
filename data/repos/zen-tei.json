@@ -1,0 +1,44 @@
+{
+  "name": "zen-tei",
+  "description": "HuggingFace Text Embeddings Inference (TEI) rerank + embed servers for zen \u2014 supervised LaunchAgents, Apple Silicon Metal acceleration, tailnet-bound.",
+  "github_url": "https://github.com/harkers/zen-tei",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": "Shell",
+  "direction": "IDLE",
+  "attention": "green",
+  "last_activity": "2026-05-24T06:49:44Z",
+  "stats": {
+    "commits_7d": 0,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 0,
+    "open_issues": 0,
+    "open_prs": 0,
+    "failed_actions_7d": 0
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [],
+  "health": {
+    "ci": true,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [],
+  "work": {
+    "issues": [],
+    "prs": []
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0
+  }
+}

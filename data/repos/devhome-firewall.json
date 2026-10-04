@@ -1,0 +1,63 @@
+{
+  "name": "devhome-firewall",
+  "description": "# A firewall blacklist composed from IP lists, providing  # maximum protection with minimum false positives. Suitable  # for basic protection on all internet facing servers,  # routers and firewalls. (includes: bambenek_c2 dshield feodo  # fullbogons spamhaus_drop spamhaus_edrop sslbl ransomware_rw)",
+  "github_url": "https://github.com/harkers/devhome-firewall",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": null,
+  "direction": "ACTIVE DELIVERY",
+  "attention": "green",
+  "last_activity": "2026-10-04T15:48:19Z",
+  "stats": {
+    "commits_7d": 2,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 2,
+    "open_issues": 1,
+    "open_prs": 1,
+    "failed_actions_7d": 0
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [],
+  "health": {
+    "ci": true,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [
+    {
+      "time": "2026-10-04T15:48:19Z",
+      "text": "commit 625c854 \u2014 chore: sync repository standards v1 (#3)"
+    },
+    {
+      "time": "2026-10-04T15:48:19Z",
+      "text": "PR #3 merged \u2014 [chore] Sync repository standards v1 (5371ef03)"
+    },
+    {
+      "time": "2026-10-04T15:08:53Z",
+      "text": "PR #2 merged \u2014 [chore] Sync repository standards v1 (d65d8d54)"
+    },
+    {
+      "time": "2026-10-04T15:08:52Z",
+      "text": "commit bffe6ba \u2014 chore: sync repository standards v1 (#2)"
+    }
+  ],
+  "work": {
+    "issues": [],
+    "prs": [
+      "#1 [chore] Sync repository standards v1 (cea6cf0c)"
+    ]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0
+  }
+}

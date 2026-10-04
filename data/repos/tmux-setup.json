@@ -1,0 +1,44 @@
+{
+  "name": "tmux-setup",
+  "description": "Homelab config + setup notes for titan (Plex / Posterizarr / VNC / tmux)",
+  "github_url": "https://github.com/harkers/tmux-setup",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": "Python",
+  "direction": "IDLE",
+  "attention": "green",
+  "last_activity": "2026-05-21T07:57:01Z",
+  "stats": {
+    "commits_7d": 0,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 0,
+    "open_issues": 0,
+    "open_prs": 0,
+    "failed_actions_7d": 0
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [],
+  "health": {
+    "ci": true,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [],
+  "work": {
+    "issues": [],
+    "prs": []
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0
+  }
+}

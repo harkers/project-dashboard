@@ -1,0 +1,82 @@
+{
+  "name": "project-dashboard",
+  "description": "No description.",
+  "github_url": "https://github.com/harkers/project-dashboard",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": "Python",
+  "direction": "ACTIVE DELIVERY",
+  "attention": "red",
+  "last_activity": "2026-10-04T13:55:04Z",
+  "stats": {
+    "commits_7d": 20,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 0,
+    "open_issues": 0,
+    "open_prs": 0,
+    "failed_actions_7d": 11
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [
+    {
+      "severity": "error",
+      "message": "11 failing workflow run(s) in the last 7 days."
+    }
+  ],
+  "health": {
+    "ci": false,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [
+    {
+      "time": "2026-10-04T13:55:03Z",
+      "text": "commit b7c8c1a \u2014 docs: add local report integration guide"
+    },
+    {
+      "time": "2026-10-04T13:54:34Z",
+      "text": "commit 5413fda \u2014 docs: add dashboard operations guide"
+    },
+    {
+      "time": "2026-10-04T13:53:54Z",
+      "text": "commit 3696410 \u2014 docs: add dashboard data model"
+    },
+    {
+      "time": "2026-10-04T13:53:28Z",
+      "text": "commit 7e11857 \u2014 docs: add dashboard architecture guide"
+    },
+    {
+      "time": "2026-10-04T13:53:07Z",
+      "text": "commit 3abb862 \u2014 docs: expand project dashboard README"
+    },
+    {
+      "time": "2026-10-04T13:45:33Z",
+      "text": "commit 9023d5a \u2014 docs: describe repository intelligence dashboard"
+    },
+    {
+      "time": "2026-10-04T13:45:02Z",
+      "text": "commit a5a5de1 \u2014 feat: refresh dashboard data on schedule"
+    },
+    {
+      "time": "2026-10-04T13:44:53Z",
+      "text": "commit 30d7b00 \u2014 feat: add public GitHub repository data collector"
+    }
+  ],
+  "work": {
+    "issues": [],
+    "prs": []
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0
+  }
+}

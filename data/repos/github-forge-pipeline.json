@@ -1,0 +1,63 @@
+{
+  "name": "github-forge-pipeline",
+  "description": "Master planning and tracking for Forge workstreams using GitHub Projects V2",
+  "github_url": "https://github.com/harkers/github-forge-pipeline",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": "TypeScript",
+  "direction": "ACTIVE DELIVERY",
+  "attention": "green",
+  "last_activity": "2026-10-04T15:48:46Z",
+  "stats": {
+    "commits_7d": 2,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 2,
+    "open_issues": 33,
+    "open_prs": 1,
+    "failed_actions_7d": 0
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [],
+  "health": {
+    "ci": true,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [
+    {
+      "time": "2026-10-04T15:48:46Z",
+      "text": "commit 2c32105 \u2014 chore: sync repository standards v1 (#37)"
+    },
+    {
+      "time": "2026-10-04T15:48:46Z",
+      "text": "PR #37 merged \u2014 [chore] Sync repository standards v1 (5371ef03)"
+    },
+    {
+      "time": "2026-10-04T15:09:19Z",
+      "text": "PR #36 merged \u2014 [chore] Sync repository standards v1 (d65d8d54)"
+    },
+    {
+      "time": "2026-10-04T15:09:18Z",
+      "text": "commit 2f64e06 \u2014 chore: sync repository standards v1 (#36)"
+    }
+  ],
+  "work": {
+    "issues": [],
+    "prs": [
+      "#35 [chore] Sync repository standards v1 (cea6cf0c)"
+    ]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0
+  }
+}
