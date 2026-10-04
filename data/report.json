@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-10-04T13:58:00+01:00",
+  "period": {
+    "label": "Sample 7-day report",
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "summary": {
+    "repositories": 6,
+    "commits": 42,
+    "issues_created": 11,
+    "issues_closed": 9,
+    "prs_created": 8,
+    "prs_merged": 6,
+    "comments": 27,
+    "failed_actions": 2
+  },
+  "attention": [
+    {"severity": "error", "message": "mlx-broker has 1 failed CI run."},
+    {"severity": "warning", "message": "workhub is ahead of origin by 2 commits."},
+    {"severity": "warning", "message": "agent-fabric has uncommitted changes."}
+  ],
+  "repositories": [
+    {"name": "workhub", "commits": 12, "issues_closed": 3, "prs_merged": 2, "failed_actions": 0, "dirty": false, "sync_state": "ahead"},
+    {"name": "agent-fabric", "commits": 9, "issues_closed": 2, "prs_merged": 1, "failed_actions": 0, "dirty": true, "sync_state": "synchronized"},
+    {"name": "mlx-broker", "commits": 8, "issues_closed": 2, "prs_merged": 1, "failed_actions": 1, "dirty": false, "sync_state": "synchronized"},
+    {"name": "jury-opencode", "commits": 5, "issues_closed": 1, "prs_merged": 1, "failed_actions": 0, "dirty": false, "sync_state": "synchronized"},
+    {"name": "model-benchmarks-local-mlx", "commits": 6, "issues_closed": 1, "prs_merged": 1, "failed_actions": 1, "dirty": false, "sync_state": "synchronized"},
+    {"name": "scripts", "commits": 2, "issues_closed": 0, "prs_merged": 0, "failed_actions": 0, "dirty": false, "sync_state": "synchronized"}
+  ],
+  "recent": {
+    "merged_prs": ["workhub #97 — TDD workflow integration", "mlx-broker #102 — routing safeguards"],
+    "closed_issues": ["agent-fabric #38 — verification defect", "jury-opencode #14 — reviewer packet truncation"],
+    "releases": ["No tagged releases in sample data"],
+    "changed_workfiles": ["workhub/TODO.md", "agent-fabric/docs/plan.md"]
+  }
+}
