@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:09:27.398768+00:00",
+  "generated_at": "2026-10-07T06:47:16.493206+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-09-30",
@@ -7,28 +7,76 @@
   },
   "summary": {
     "repositories": 17,
-    "commits": 74,
+    "commits": 75,
     "issues_created": 27,
     "issues_closed": 11,
-    "prs_created": 31,
+    "prs_created": 44,
     "prs_merged": 26,
     "comments": 0,
-    "failed_actions": 11
+    "failed_actions": 24
   },
   "attention": [
     {
       "severity": "error",
-      "message": "project-dashboard has 11 failing workflow run(s) in the last 7 days."
+      "message": "project-dashboard has 12 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "github-privacy-intake has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "github-forge-pipeline has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "forge-cloud-control-desk has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "devhome-firewall has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "comfyui-mac has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "zen-tei has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "plex-tools has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "tmux-setup has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "forge-email-server has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "display-forge has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "forge-auth has 1 failing workflow run(s) in the last 7 days."
+    },
+    {
+      "severity": "error",
+      "message": "Forge has 1 failing workflow run(s) in the last 7 days."
     }
   ],
   "repositories": [
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 29,
+      "commits": 30,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 11,
+      "failed_actions": 12,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
@@ -52,11 +100,11 @@
       "commits": 2,
       "issues_closed": 0,
       "prs_merged": 2,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "github-forge-pipeline",
@@ -64,11 +112,11 @@
       "commits": 2,
       "issues_closed": 0,
       "prs_merged": 2,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "forge-cloud-control-desk",
@@ -76,11 +124,11 @@
       "commits": 2,
       "issues_closed": 0,
       "prs_merged": 2,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "devhome-firewall",
@@ -88,11 +136,11 @@
       "commits": 2,
       "issues_closed": 0,
       "prs_merged": 2,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "comfyui-mac",
@@ -100,11 +148,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "zen-tei",
@@ -112,11 +160,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "plex-tools",
@@ -124,11 +172,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "tmux-setup",
@@ -136,11 +184,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "forge-email-server",
@@ -148,11 +196,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "display-forge",
@@ -160,11 +208,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "forge-auth",
@@ -172,11 +220,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "Forge",
@@ -184,11 +232,11 @@
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 0,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "IDLE",
-      "attention": "green"
+      "attention": "red"
     },
     {
       "name": "SubProcessor-List",

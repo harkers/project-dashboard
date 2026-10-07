@@ -6,24 +6,29 @@
   "default_branch": "main",
   "language": null,
   "direction": "ACTIVE DELIVERY",
-  "attention": "green",
-  "last_activity": "2026-10-04T15:48:19Z",
+  "attention": "red",
+  "last_activity": "2026-10-07T04:45:29Z",
   "stats": {
     "commits_7d": 2,
     "issues_closed_7d": 0,
     "prs_merged_7d": 2,
-    "open_issues": 1,
-    "open_prs": 1,
-    "failed_actions_7d": 0
+    "open_issues": 2,
+    "open_prs": 2,
+    "failed_actions_7d": 1
   },
   "local": {
     "dirty": null,
     "sync_state": "not collected"
   },
   "latest_release": null,
-  "attention_items": [],
+  "attention_items": [
+    {
+      "severity": "error",
+      "message": "1 failing workflow run(s) in the last 7 days."
+    }
+  ],
   "health": {
-    "ci": true,
+    "ci": false,
     "tests": null,
     "security": null,
     "issue_forms": null,
@@ -52,6 +57,7 @@
   "work": {
     "issues": [],
     "prs": [
+      "#4 [chore] Sync repository standards v1 (d5afae46)",
       "#1 [chore] Sync repository standards v1 (cea6cf0c)"
     ]
   },

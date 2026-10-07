@@ -6,24 +6,29 @@
   "default_branch": "master",
   "language": "Python",
   "direction": "IDLE",
-  "attention": "green",
-  "last_activity": "2026-04-04T13:55:38Z",
+  "attention": "red",
+  "last_activity": "2026-10-07T04:54:12Z",
   "stats": {
     "commits_7d": 0,
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
-    "open_issues": 0,
-    "open_prs": 0,
-    "failed_actions_7d": 0
+    "open_issues": 1,
+    "open_prs": 1,
+    "failed_actions_7d": 1
   },
   "local": {
     "dirty": null,
     "sync_state": "not collected"
   },
   "latest_release": null,
-  "attention_items": [],
+  "attention_items": [
+    {
+      "severity": "error",
+      "message": "1 failing workflow run(s) in the last 7 days."
+    }
+  ],
   "health": {
-    "ci": true,
+    "ci": false,
     "tests": null,
     "security": null,
     "issue_forms": null,
@@ -34,7 +39,9 @@
   "timeline": [],
   "work": {
     "issues": [],
-    "prs": []
+    "prs": [
+      "#1 [chore] Sync repository standards v1 (d5afae46)"
+    ]
   },
   "github": {
     "stars": 0,
