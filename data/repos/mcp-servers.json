@@ -1,0 +1,53 @@
+{
+  "name": "mcp-servers",
+  "description": "Self-hosted GitHub MCP server for local agent use",
+  "github_url": "https://github.com/harkers/mcp-servers",
+  "visibility": "public",
+  "default_branch": "main",
+  "language": null,
+  "direction": "ACTIVE DELIVERY",
+  "attention": "green",
+  "last_activity": "2026-10-07T09:23:26Z",
+  "stats": {
+    "commits_7d": 2,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 0,
+    "open_issues": 0,
+    "open_prs": 0,
+    "failed_actions_7d": 0
+  },
+  "local": {
+    "dirty": null,
+    "sync_state": "not collected"
+  },
+  "latest_release": null,
+  "attention_items": [],
+  "health": {
+    "ci": true,
+    "tests": null,
+    "security": null,
+    "issue_forms": null,
+    "pr_template": null,
+    "readme": null,
+    "todo_schema": null
+  },
+  "timeline": [
+    {
+      "time": "2026-10-07T09:23:24Z",
+      "text": "commit 7fb41ad \u2014 Add splash35b-20g model profile and context benchmarks"
+    },
+    {
+      "time": "2026-10-07T08:25:35Z",
+      "text": "commit 632a4a7 \u2014 Add GitHub MCP server documentation and configuration"
+    }
+  ],
+  "work": {
+    "issues": [],
+    "prs": []
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0,
+    "watchers": 0
+  }
+}
