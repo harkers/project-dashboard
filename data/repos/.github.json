@@ -7,12 +7,12 @@
   "language": "Python",
   "direction": "ACTIVE DELIVERY",
   "attention": "green",
-  "last_activity": "2026-10-07T12:50:41Z",
+  "last_activity": "2026-10-07T19:55:07Z",
   "stats": {
     "commits_7d": 37,
     "issues_closed_7d": 11,
     "prs_merged_7d": 18,
-    "open_issues": 17,
+    "open_issues": 18,
     "open_prs": 1,
     "failed_actions_7d": 0
   },
@@ -83,6 +83,7 @@
   ],
   "work": {
     "issues": [
+      "#47 [Task] WorkItem v4.1 completion: pin consumers, prove first consumer, retire superseded v1 branch",
       "#43 [Contract] The validator never evaluates transition legality: TransitionEngine.check() had 0 invocations across a full ledger validation",
       "#45 [Contract] completion.status is declared, schema-enumerated, and read by no gate",
       "#44 [Contract] not_applicable_is_sufficient is decorative, and all 14 live records depend on the behaviour it names",
@@ -91,8 +92,7 @@
       "#26 [Contract] gates.py reads hierarchy.visited_states, which the schema forbids with additionalProperties:false",
       "#40 [Contract] No backward transition: a record filed into the wrong state cannot be corrected honestly",
       "#39 [Contract] validate-workitem.yml parses contract-version.yaml twice \u2014 regex and yaml for the same field",
-      "#38 [Contract] check_before returns True for a state that does not exist, and a test pins it",
-      "#37 [Contract] attested.at is format:date-time but jsonschema has no rfc3339 checker installed, so the constraint is neither enforced nor enforceable"
+      "#38 [Contract] check_before returns True for a state that does not exist, and a test pins it"
     ],
     "prs": [
       "#28 feat(forms): add canonical P0\u2013P3 defect priority"
