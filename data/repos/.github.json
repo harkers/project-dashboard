@@ -9,9 +9,9 @@
   "attention": "green",
   "last_activity": "2026-10-07T19:55:07Z",
   "stats": {
-    "commits_7d": 4,
-    "issues_closed_7d": 5,
-    "prs_merged_7d": 3,
+    "commits_7d": 1,
+    "issues_closed_7d": 1,
+    "prs_merged_7d": 1,
     "open_issues": 18,
     "open_prs": 1,
     "failed_actions_7d": 0
@@ -39,26 +39,6 @@
     {
       "time": "2026-10-04T19:05:16Z",
       "text": "PR #46 merged \u2014 fix(contract): guard every backward edge into READY \u2014 the #40 invariant was false as shipped"
-    },
-    {
-      "time": "2026-10-04T17:37:54Z",
-      "text": "commit c33e077 \u2014 feat(contract): workitem/v4 -- DONE reads the union, and a misfiled record can go back (#41)"
-    },
-    {
-      "time": "2026-10-04T17:37:54Z",
-      "text": "PR #41 merged \u2014 feat(contract): workitem/v4 \u2014 DONE reads the union, and a misfiled record can go back"
-    },
-    {
-      "time": "2026-10-04T17:30:11Z",
-      "text": "commit 7e16961 \u2014 fix(conformance): the declared gates must actually fire (not released \u2014 4 of 14 live records violate them) (#30)"
-    },
-    {
-      "time": "2026-10-04T17:30:11Z",
-      "text": "PR #30 merged \u2014 fix(conformance): the declared gates must actually fire (not released \u2014 4 of 14 live records violate them)"
-    },
-    {
-      "time": "2026-10-04T15:19:19Z",
-      "text": "commit 56a9685 \u2014 docs(decisions): 0001 rejected on review, superseded by 0002"
     }
   ],
   "work": {
@@ -66,13 +46,7 @@
       "#47 [Task] WorkItem v4.1 completion: pin consumers, prove first consumer, retire superseded v1 branch",
       "#43 [Contract] The validator never evaluates transition legality: TransitionEngine.check() had 0 invocations across a full ledger validation",
       "#45 [Contract] completion.status is declared, schema-enumerated, and read by no gate",
-      "#44 [Contract] not_applicable_is_sufficient is decorative, and all 14 live records depend on the behaviour it names",
-      "#34 [Contract] Provenance cannot record the checker, and gate-ref is the one ref that is never pin-checked",
-      "#36 [Contract] Inventory of inert declarations \u2014 13 consumers missing, in tests or nowhere",
-      "#26 [Contract] gates.py reads hierarchy.visited_states, which the schema forbids with additionalProperties:false",
-      "#40 [Contract] No backward transition: a record filed into the wrong state cannot be corrected honestly",
-      "#39 [Contract] validate-workitem.yml parses contract-version.yaml twice \u2014 regex and yaml for the same field",
-      "#38 [Contract] check_before returns True for a state that does not exist, and a test pins it"
+      "#44 [Contract] not_applicable_is_sufficient is decorative, and all 14 live records depend on the behaviour it names"
     ],
     "prs": [
       "#28 feat(forms): add canonical P0\u2013P3 defect priority"

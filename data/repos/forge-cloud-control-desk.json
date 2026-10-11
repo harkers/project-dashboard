@@ -5,13 +5,13 @@
   "visibility": "public",
   "default_branch": "main",
   "language": "Python",
-  "direction": "ACTIVE DELIVERY",
+  "direction": "IDLE",
   "attention": "red",
   "last_activity": "2026-10-07T04:44:51Z",
   "stats": {
-    "commits_7d": 2,
+    "commits_7d": 0,
     "issues_closed_7d": 0,
-    "prs_merged_7d": 2,
+    "prs_merged_7d": 0,
     "open_issues": 2,
     "open_prs": 2,
     "failed_actions_7d": 1
@@ -36,24 +36,7 @@
     "readme": null,
     "todo_schema": null
   },
-  "timeline": [
-    {
-      "time": "2026-10-04T15:48:37Z",
-      "text": "PR #3 merged \u2014 [chore] Sync repository standards v1 (5371ef03)"
-    },
-    {
-      "time": "2026-10-04T15:48:36Z",
-      "text": "commit 220cc41 \u2014 chore: sync repository standards v1 (#3)"
-    },
-    {
-      "time": "2026-10-04T15:09:10Z",
-      "text": "commit 252c4a4 \u2014 chore: sync repository standards v1 (#2)"
-    },
-    {
-      "time": "2026-10-04T15:09:10Z",
-      "text": "PR #2 merged \u2014 [chore] Sync repository standards v1 (d65d8d54)"
-    }
-  ],
+  "timeline": [],
   "work": {
     "issues": [],
     "prs": [

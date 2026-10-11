@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:40:53.172685+00:00",
+  "generated_at": "2026-10-11T18:35:25.522970+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-10-04",
@@ -7,18 +7,18 @@
   },
   "summary": {
     "repositories": 18,
-    "commits": 61,
-    "issues_created": 15,
-    "issues_closed": 5,
-    "prs_created": 24,
-    "prs_merged": 11,
+    "commits": 31,
+    "issues_created": 5,
+    "issues_closed": 1,
+    "prs_created": 14,
+    "prs_merged": 1,
     "comments": 0,
-    "failed_actions": 24
+    "failed_actions": 13
   },
   "attention": [
     {
       "severity": "error",
-      "message": "project-dashboard has 12 failing workflow run(s) in the last 7 days."
+      "message": "project-dashboard has 1 failing workflow run(s) in the last 7 days."
     },
     {
       "severity": "error",
@@ -73,10 +73,10 @@
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 47,
+      "commits": 28,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 12,
+      "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
@@ -97,9 +97,9 @@
     {
       "name": ".github",
       "description": "Default GitHub engineering standards and issue forms",
-      "commits": 4,
-      "issues_closed": 5,
-      "prs_merged": 3,
+      "commits": 1,
+      "issues_closed": 1,
+      "prs_merged": 1,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
@@ -109,49 +109,49 @@
     {
       "name": "github-privacy-intake",
       "description": "Privacy Intake Application - FastAPI based privacy case management",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
-      "prs_merged": 2,
+      "prs_merged": 0,
       "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "red"
     },
     {
       "name": "github-forge-pipeline",
       "description": "Master planning and tracking for Forge workstreams using GitHub Projects V2",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
-      "prs_merged": 2,
+      "prs_merged": 0,
       "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "red"
     },
     {
       "name": "forge-cloud-control-desk",
       "description": "A lightweight internal operations platform that uses Compute Engine API as the execution layer and Google Workspace/Enterprise APIs as the workflow, evidence, and reporting layer.",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
-      "prs_merged": 2,
+      "prs_merged": 0,
       "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "red"
     },
     {
       "name": "devhome-firewall",
       "description": "# A firewall blacklist composed from IP lists, providing  # maximum protection with minimum false positives. Suitable  # for basic protection on all internet facing servers,  # routers and firewalls. (includes: bambenek_c2 dshield feodo  # fullbogons spamhaus_drop spamhaus_edrop sslbl ransomware_rw)",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
-      "prs_merged": 2,
+      "prs_merged": 0,
       "failed_actions": 1,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "red"
     },
     {
@@ -289,22 +289,10 @@
   ],
   "recent": {
     "merged_prs": [
-      ".github #46 \u2014 fix(contract): guard every backward edge into READY \u2014 the #40 invariant was false as shipped",
-      ".github #41 \u2014 feat(contract): workitem/v4 \u2014 DONE reads the union, and a misfiled record can go back",
-      ".github #30 \u2014 fix(conformance): the declared gates must actually fire (not released \u2014 4 of 14 live records violate them)",
-      "github-privacy-intake #3 \u2014 [chore] Sync repository standards v1 (5371ef03)",
-      "github-privacy-intake #2 \u2014 [chore] Sync repository standards v1 (d65d8d54)",
-      "github-forge-pipeline #37 \u2014 [chore] Sync repository standards v1 (5371ef03)",
-      "github-forge-pipeline #36 \u2014 [chore] Sync repository standards v1 (d65d8d54)",
-      "forge-cloud-control-desk #3 \u2014 [chore] Sync repository standards v1 (5371ef03)",
-      "forge-cloud-control-desk #2 \u2014 [chore] Sync repository standards v1 (d65d8d54)",
-      "devhome-firewall #3 \u2014 [chore] Sync repository standards v1 (5371ef03)",
-      "devhome-firewall #2 \u2014 [chore] Sync repository standards v1 (d65d8d54)"
+      ".github #46 \u2014 fix(contract): guard every backward edge into READY \u2014 the #40 invariant was false as shipped"
     ],
     "closed_issues": [
-      ".github #42 \u2014 [Contract] The no_criterion_met guard covered one edge into READY; FAILED->READY and BLOCKED->READY reached it in two hops",
-      ".github #31 \u2014 [Contract] a WorkItem can reach DONE with verification.required: [] and no review performed",
-      ".github #32 \u2014 [Contract] Cutting workitem-gate/v7 will red-line workhub's protected main: 5 live records violate the gates #29 makes real"
+      ".github #42 \u2014 [Contract] The no_criterion_met guard covered one edge into READY; FAILED->READY and BLOCKED->READY reached it in two hops"
     ],
     "releases": [],
     "changed_workfiles": []
