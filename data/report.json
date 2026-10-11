@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-10T18:34:31.105814+00:00",
+  "generated_at": "2026-10-11T01:14:33.526747+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
-    "start": "2026-10-03",
-    "end": "2026-10-10"
+    "start": "2026-10-04",
+    "end": "2026-10-11"
   },
   "summary": {
     "repositories": 18,
-    "commits": 66,
-    "issues_created": 24,
-    "issues_closed": 10,
-    "prs_created": 32,
-    "prs_merged": 18,
+    "commits": 65,
+    "issues_created": 23,
+    "issues_closed": 9,
+    "prs_created": 30,
+    "prs_merged": 16,
     "comments": 0,
     "failed_actions": 24
   },
@@ -73,7 +73,7 @@
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 44,
+      "commits": 45,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 12,
@@ -97,9 +97,9 @@
     {
       "name": ".github",
       "description": "Default GitHub engineering standards and issue forms",
-      "commits": 12,
-      "issues_closed": 10,
-      "prs_merged": 10,
+      "commits": 10,
+      "issues_closed": 9,
+      "prs_merged": 8,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",

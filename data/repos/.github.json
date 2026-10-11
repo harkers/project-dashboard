@@ -9,9 +9,9 @@
   "attention": "green",
   "last_activity": "2026-10-07T19:55:07Z",
   "stats": {
-    "commits_7d": 12,
-    "issues_closed_7d": 10,
-    "prs_merged_7d": 10,
+    "commits_7d": 10,
+    "issues_closed_7d": 9,
+    "prs_merged_7d": 8,
     "open_issues": 18,
     "open_prs": 1,
     "failed_actions_7d": 0
