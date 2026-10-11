@@ -9,9 +9,9 @@
   "attention": "green",
   "last_activity": "2026-10-07T19:55:07Z",
   "stats": {
-    "commits_7d": 10,
-    "issues_closed_7d": 9,
-    "prs_merged_7d": 8,
+    "commits_7d": 4,
+    "issues_closed_7d": 5,
+    "prs_merged_7d": 3,
     "open_issues": 18,
     "open_prs": 1,
     "failed_actions_7d": 0
@@ -59,26 +59,6 @@
     {
       "time": "2026-10-04T15:19:19Z",
       "text": "commit 56a9685 \u2014 docs(decisions): 0001 rejected on review, superseded by 0002"
-    },
-    {
-      "time": "2026-10-04T10:19:05Z",
-      "text": "commit 34a4c0f \u2014 docs(decisions): 0001, BLOCKED must preserve progress position"
-    },
-    {
-      "time": "2026-10-04T10:01:28Z",
-      "text": "commit f0f84f5 \u2014 feat(contract): v3, attested discharge for external dependencies (#25)"
-    },
-    {
-      "time": "2026-10-04T10:01:28Z",
-      "text": "PR #25 merged \u2014 feat(contract): v3, attested discharge for external dependencies"
-    },
-    {
-      "time": "2026-10-04T09:04:21Z",
-      "text": "commit 4c8153e \u2014 release: workitem/v2.1, carrying the corrected migration (#21)"
-    },
-    {
-      "time": "2026-10-04T09:02:53Z",
-      "text": "PR #20 merged \u2014 fix(migrations): v1-to-v2 never set schema_version"
     }
   ],
   "work": {
