@@ -5,13 +5,13 @@
   "visibility": "public",
   "default_branch": "main",
   "language": "Python",
-  "direction": "ACTIVE DELIVERY",
+  "direction": "IDLE",
   "attention": "green",
   "last_activity": "2026-10-07T19:55:07Z",
   "stats": {
-    "commits_7d": 1,
-    "issues_closed_7d": 1,
-    "prs_merged_7d": 1,
+    "commits_7d": 0,
+    "issues_closed_7d": 0,
+    "prs_merged_7d": 0,
     "open_issues": 18,
     "open_prs": 1,
     "failed_actions_7d": 0
@@ -31,22 +31,10 @@
     "readme": null,
     "todo_schema": null
   },
-  "timeline": [
-    {
-      "time": "2026-10-04T19:05:16Z",
-      "text": "commit 5a03573 \u2014 fix(contract): guard every backward edge into READY \u2014 the #40 invariant was false as shipped (#46)"
-    },
-    {
-      "time": "2026-10-04T19:05:16Z",
-      "text": "PR #46 merged \u2014 fix(contract): guard every backward edge into READY \u2014 the #40 invariant was false as shipped"
-    }
-  ],
+  "timeline": [],
   "work": {
     "issues": [
-      "#47 [Task] WorkItem v4.1 completion: pin consumers, prove first consumer, retire superseded v1 branch",
-      "#43 [Contract] The validator never evaluates transition legality: TransitionEngine.check() had 0 invocations across a full ledger validation",
-      "#45 [Contract] completion.status is declared, schema-enumerated, and read by no gate",
-      "#44 [Contract] not_applicable_is_sufficient is decorative, and all 14 live records depend on the behaviour it names"
+      "#47 [Task] WorkItem v4.1 completion: pin consumers, prove first consumer, retire superseded v1 branch"
     ],
     "prs": [
       "#28 feat(forms): add canonical P0\u2013P3 defect priority"

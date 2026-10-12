@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-11T18:35:25.522970+00:00",
+  "generated_at": "2026-10-12T01:17:01.975669+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
-    "start": "2026-10-04",
-    "end": "2026-10-11"
+    "start": "2026-10-05",
+    "end": "2026-10-12"
   },
   "summary": {
     "repositories": 18,
-    "commits": 31,
-    "issues_created": 5,
-    "issues_closed": 1,
-    "prs_created": 14,
-    "prs_merged": 1,
+    "commits": 29,
+    "issues_created": 1,
+    "issues_closed": 0,
+    "prs_created": 13,
+    "prs_merged": 0,
     "comments": 0,
     "failed_actions": 13
   },
@@ -73,7 +73,7 @@
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 28,
+      "commits": 27,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 1,
@@ -97,13 +97,13 @@
     {
       "name": ".github",
       "description": "Default GitHub engineering standards and issue forms",
-      "commits": 1,
-      "issues_closed": 1,
-      "prs_merged": 1,
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "green"
     },
     {
@@ -288,12 +288,8 @@
     }
   ],
   "recent": {
-    "merged_prs": [
-      ".github #46 \u2014 fix(contract): guard every backward edge into READY \u2014 the #40 invariant was false as shipped"
-    ],
-    "closed_issues": [
-      ".github #42 \u2014 [Contract] The no_criterion_met guard covered one edge into READY; FAILED->READY and BLOCKED->READY reached it in two hops"
-    ],
+    "merged_prs": [],
+    "closed_issues": [],
     "releases": [],
     "changed_workfiles": []
   }
