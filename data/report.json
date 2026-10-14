@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:44:38.865530+00:00",
+  "generated_at": "2026-10-14T12:39:42.495594+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-10-07",
@@ -7,7 +7,7 @@
   },
   "summary": {
     "repositories": 18,
-    "commits": 30,
+    "commits": 28,
     "issues_created": 1,
     "issues_closed": 0,
     "prs_created": 0,
@@ -32,13 +32,13 @@
     {
       "name": "mcp-servers",
       "description": "Self-hosted GitHub MCP server for local agent use",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "green"
     },
     {

@@ -5,11 +5,11 @@
   "visibility": "public",
   "default_branch": "main",
   "language": null,
-  "direction": "ACTIVE DELIVERY",
+  "direction": "IDLE",
   "attention": "green",
   "last_activity": "2026-10-07T09:23:26Z",
   "stats": {
-    "commits_7d": 2,
+    "commits_7d": 0,
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
     "open_issues": 0,
@@ -31,16 +31,7 @@
     "readme": null,
     "todo_schema": null
   },
-  "timeline": [
-    {
-      "time": "2026-10-07T09:23:24Z",
-      "text": "commit 7fb41ad \u2014 Add splash35b-20g model profile and context benchmarks"
-    },
-    {
-      "time": "2026-10-07T08:25:35Z",
-      "text": "commit 632a4a7 \u2014 Add GitHub MCP server documentation and configuration"
-    }
-  ],
+  "timeline": [],
   "work": {
     "issues": [],
     "prs": []
