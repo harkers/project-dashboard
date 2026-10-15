@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-14T18:36:32.101515+00:00",
+  "generated_at": "2026-10-15T00:57:21.364476+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
-    "start": "2026-10-07",
-    "end": "2026-10-14"
+    "start": "2026-10-08",
+    "end": "2026-10-15"
   },
   "summary": {
     "repositories": 18,
     "commits": 28,
-    "issues_created": 1,
+    "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
     "prs_merged": 0,
