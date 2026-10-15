@@ -33,9 +33,7 @@
   },
   "timeline": [],
   "work": {
-    "issues": [
-      "#47 [Task] WorkItem v4.1 completion: pin consumers, prove first consumer, retire superseded v1 branch"
-    ],
+    "issues": [],
     "prs": [
       "#28 feat(forms): add canonical P0\u2013P3 defect priority"
     ]
