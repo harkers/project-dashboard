@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T18:36:20.241316+00:00",
+  "generated_at": "2026-10-20T00:59:32.943338+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
-    "start": "2026-10-12",
-    "end": "2026-10-19"
+    "start": "2026-10-13",
+    "end": "2026-10-20"
   },
   "summary": {
     "repositories": 18,
