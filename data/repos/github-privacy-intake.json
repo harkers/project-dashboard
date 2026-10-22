@@ -13,7 +13,7 @@
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
     "open_issues": 2,
-    "open_prs": 2,
+    "open_prs": 0,
     "failed_actions_7d": 0
   },
   "local": {
@@ -34,10 +34,7 @@
   "timeline": [],
   "work": {
     "issues": [],
-    "prs": [
-      "#4 [chore] Sync repository standards v1 (d5afae46)",
-      "#1 [chore] Sync repository standards v1 (cea6cf0c)"
-    ]
+    "prs": []
   },
   "github": {
     "stars": 0,
