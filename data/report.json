@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T18:33:49.852619+00:00",
+  "generated_at": "2026-10-23T01:01:25.967111+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
-    "start": "2026-10-15",
-    "end": "2026-10-22"
+    "start": "2026-10-16",
+    "end": "2026-10-23"
   },
   "summary": {
     "repositories": 18,
-    "commits": 28,
+    "commits": 27,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
@@ -20,7 +20,7 @@
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 28,
+      "commits": 27,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
