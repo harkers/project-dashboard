@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:03:53.220452+00:00",
+  "generated_at": "2026-10-25T06:41:42.518071+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-10-18",
@@ -7,7 +7,7 @@
   },
   "summary": {
     "repositories": 18,
-    "commits": 28,
+    "commits": 27,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
@@ -20,7 +20,7 @@
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 28,
+      "commits": 27,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
