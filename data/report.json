@@ -1,26 +1,43 @@
 {
-  "generated_at": "2026-10-31T06:26:57.027600+00:00",
+  "generated_at": "2026-11-14T12:24:05.562038+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
-    "start": "2026-10-24",
-    "end": "2026-10-31"
+    "start": "2026-11-07",
+    "end": "2026-11-14"
   },
   "summary": {
-    "repositories": 18,
-    "commits": 28,
+    "repositories": 15,
+    "commits": 32,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "comments": 0,
-    "failed_actions": 0
+    "failed_actions": 17
   },
-  "attention": [],
+  "attention": [
+    {
+      "severity": "error",
+      "message": "project-dashboard has 17 failing workflow run(s) in the last 7 days."
+    }
+  ],
   "repositories": [
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 28,
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 17,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "red"
+    },
+    {
+      "name": "github-privacy-intake",
+      "description": "Privacy Intake Application - FastAPI based privacy case management",
+      "commits": 2,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
@@ -30,111 +47,27 @@
       "attention": "green"
     },
     {
-      "name": "mcp-servers",
-      "description": "Self-hosted GitHub MCP server for local agent use",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
-      "name": ".github",
-      "description": "Default GitHub engineering standards and issue forms",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
-      "name": "github-privacy-intake",
-      "description": "Privacy Intake Application - FastAPI based privacy case management",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
       "name": "github-forge-pipeline",
       "description": "Master planning and tracking for Forge workstreams using GitHub Projects V2",
-      "commits": 0,
+      "commits": 2,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "IDLE",
+      "direction": "ACTIVE DELIVERY",
       "attention": "green"
     },
     {
       "name": "forge-cloud-control-desk",
       "description": "A lightweight internal operations platform that uses Compute Engine API as the execution layer and Google Workspace/Enterprise APIs as the workflow, evidence, and reporting layer.",
-      "commits": 0,
+      "commits": 2,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
-      "name": "devhome-firewall",
-      "description": "# A firewall blacklist composed from IP lists, providing  # maximum protection with minimum false positives. Suitable  # for basic protection on all internet facing servers,  # routers and firewalls. (includes: bambenek_c2 dshield feodo  # fullbogons spamhaus_drop spamhaus_edrop sslbl ransomware_rw)",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
-      "name": "comfyui-mac",
-      "description": "No description.",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
-      "name": "zen-tei",
-      "description": "HuggingFace Text Embeddings Inference (TEI) rerank + embed servers for zen \u2014 supervised LaunchAgents, Apple Silicon Metal acceleration, tailnet-bound.",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
-      "name": "plex-tools",
-      "description": "Python utilities for bulk Plex library management \u2014 artwork, summaries, match fixes, merge/split operations",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
+      "direction": "ACTIVE DELIVERY",
       "attention": "green"
     },
     {
@@ -150,68 +83,68 @@
       "attention": "green"
     },
     {
-      "name": "forge-email-server",
-      "description": "No description.",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
       "name": "display-forge",
       "description": "Generic digital signage for halls, lodges, community centers \u2014 themes, schedules, notices, emergency alerts",
-      "commits": 0,
+      "commits": 4,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "IDLE",
+      "direction": "ACTIVE DELIVERY",
       "attention": "green"
     },
     {
-      "name": "forge-auth",
-      "description": "Self-hosted SSO infrastructure for Forge ecosystem - Authentik deployment and configuration",
-      "commits": 0,
+      "name": "devhome-firewall",
+      "description": "# A firewall blacklist composed from IP lists, providing  # maximum protection with minimum false positives. Suitable  # for basic protection on all internet facing servers,  # routers and firewalls. (includes: bambenek_c2 dshield feodo  # fullbogons spamhaus_drop spamhaus_edrop sslbl ransomware_rw)",
+      "commits": 4,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "IDLE",
+      "direction": "ACTIVE DELIVERY",
       "attention": "green"
     },
     {
-      "name": "Forge",
+      "name": "comfyui-mac",
       "description": "No description.",
-      "commits": 0,
+      "commits": 4,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "IDLE",
-      "attention": "green"
-    },
-    {
-      "name": "SubProcessor-List",
-      "description": "No description.",
-      "commits": 0,
-      "issues_closed": 0,
-      "prs_merged": 0,
-      "failed_actions": 0,
-      "dirty": null,
-      "sync_state": "not collected",
-      "direction": "IDLE",
+      "direction": "ACTIVE DELIVERY",
       "attention": "green"
     },
     {
       "name": "New-Website-Landing-Page",
       "description": "No description.",
+      "commits": 6,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": "Forge",
+      "description": "No description.",
+      "commits": 6,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": "zen-tei",
+      "description": "HuggingFace Text Embeddings Inference (TEI) rerank + embed servers for zen \u2014 supervised LaunchAgents, Apple Silicon Metal acceleration, tailnet-bound.",
       "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
@@ -223,6 +156,42 @@
     },
     {
       "name": "stuartharker",
+      "description": "No description.",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "mcp-servers",
+      "description": "Self-hosted GitHub MCP server for local agent use",
+      "commits": 2,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "ACTIVE DELIVERY",
+      "attention": "green"
+    },
+    {
+      "name": ".github",
+      "description": "Default GitHub engineering standards and issue forms",
+      "commits": 0,
+      "issues_closed": 0,
+      "prs_merged": 0,
+      "failed_actions": 0,
+      "dirty": null,
+      "sync_state": "not collected",
+      "direction": "IDLE",
+      "attention": "green"
+    },
+    {
+      "name": "SubProcessor-List",
       "description": "No description.",
       "commits": 0,
       "issues_closed": 0,

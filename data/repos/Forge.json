@@ -4,12 +4,12 @@
   "github_url": "https://github.com/harkers/Forge",
   "visibility": "public",
   "default_branch": "main",
-  "language": "PHP",
-  "direction": "IDLE",
+  "language": "Python",
+  "direction": "ACTIVE DELIVERY",
   "attention": "green",
-  "last_activity": "2026-10-07T04:55:24Z",
+  "last_activity": "2026-11-14T05:18:30Z",
   "stats": {
-    "commits_7d": 0,
+    "commits_7d": 6,
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
     "open_issues": 3,
@@ -31,7 +31,32 @@
     "readme": null,
     "todo_schema": null
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "time": "2026-11-14T05:18:25Z",
+      "text": "commit 73f2794 \u2014 [chore] Sync repository standards v1 (0fb86f67)"
+    },
+    {
+      "time": "2026-11-14T05:18:24Z",
+      "text": "commit da2f252 \u2014 chore: sync repository standards v1"
+    },
+    {
+      "time": "2026-11-10T05:17:45Z",
+      "text": "commit b8267e1 \u2014 [chore] Sync repository standards v1 (dc639067)"
+    },
+    {
+      "time": "2026-11-10T05:17:45Z",
+      "text": "commit 87edf17 \u2014 chore: sync repository standards v1"
+    },
+    {
+      "time": "2026-11-08T05:17:46Z",
+      "text": "commit 780abf0 \u2014 [chore] Sync repository standards v1 (efa6bf24)"
+    },
+    {
+      "time": "2026-11-08T05:17:45Z",
+      "text": "commit 4007210 \u2014 chore: sync repository standards v1"
+    }
+  ],
   "work": {
     "issues": [],
     "prs": [
