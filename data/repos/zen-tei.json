@@ -4,10 +4,10 @@
   "github_url": "https://github.com/harkers/zen-tei",
   "visibility": "public",
   "default_branch": "main",
-  "language": "Shell",
+  "language": "Python",
   "direction": "IDLE",
   "attention": "green",
-  "last_activity": "2026-10-07T04:50:36Z",
+  "last_activity": "2026-11-05T06:11:22Z",
   "stats": {
     "commits_7d": 0,
     "issues_closed_7d": 0,
