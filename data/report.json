@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T12:27:33.950928+00:00",
+  "generated_at": "2026-11-17T18:24:22.097963+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-11-10",
@@ -7,28 +7,28 @@
   },
   "summary": {
     "repositories": 15,
-    "commits": 30,
+    "commits": 31,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "comments": 0,
-    "failed_actions": 13
+    "failed_actions": 12
   },
   "attention": [
     {
       "severity": "error",
-      "message": "project-dashboard has 13 failing workflow run(s) in the last 7 days."
+      "message": "project-dashboard has 12 failing workflow run(s) in the last 7 days."
     }
   ],
   "repositories": [
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 6,
+      "commits": 7,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 13,
+      "failed_actions": 12,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
