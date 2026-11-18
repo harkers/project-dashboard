@@ -9,7 +9,7 @@
   "attention": "green",
   "last_activity": "2026-11-15T05:19:39Z",
   "stats": {
-    "commits_7d": 4,
+    "commits_7d": 2,
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
     "open_issues": 3,
@@ -39,14 +39,6 @@
     {
       "time": "2026-11-15T05:19:34Z",
       "text": "commit 7b54b2e \u2014 chore: sync repository standards v1"
-    },
-    {
-      "time": "2026-11-11T05:19:31Z",
-      "text": "commit bda73fe \u2014 [chore] Sync repository standards v1 (dc639067)"
-    },
-    {
-      "time": "2026-11-11T05:19:30Z",
-      "text": "commit 50ce1b7 \u2014 chore: sync repository standards v1"
     }
   ],
   "work": {

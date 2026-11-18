@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:42:21.754615+00:00",
+  "generated_at": "2026-11-18T06:31:02.534665+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-11-11",
@@ -7,7 +7,7 @@
   },
   "summary": {
     "repositories": 15,
-    "commits": 32,
+    "commits": 27,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
@@ -25,7 +25,7 @@
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 8,
+      "commits": 9,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 11,
@@ -85,7 +85,7 @@
     {
       "name": "display-forge",
       "description": "Generic digital signage for halls, lodges, community centers \u2014 themes, schedules, notices, emergency alerts",
-      "commits": 4,
+      "commits": 2,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
@@ -97,7 +97,7 @@
     {
       "name": "devhome-firewall",
       "description": "# A firewall blacklist composed from IP lists, providing  # maximum protection with minimum false positives. Suitable  # for basic protection on all internet facing servers,  # routers and firewalls. (includes: bambenek_c2 dshield feodo  # fullbogons spamhaus_drop spamhaus_edrop sslbl ransomware_rw)",
-      "commits": 4,
+      "commits": 2,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
@@ -109,7 +109,7 @@
     {
       "name": "comfyui-mac",
       "description": "No description.",
-      "commits": 4,
+      "commits": 2,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
