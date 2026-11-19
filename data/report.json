@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:42:05.783934+00:00",
+  "generated_at": "2026-11-19T06:31:59.951104+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-11-12",
@@ -7,28 +7,28 @@
   },
   "summary": {
     "repositories": 15,
-    "commits": 30,
+    "commits": 25,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "comments": 0,
-    "failed_actions": 9
+    "failed_actions": 8
   },
   "attention": [
     {
       "severity": "error",
-      "message": "project-dashboard has 9 failing workflow run(s) in the last 7 days."
+      "message": "project-dashboard has 8 failing workflow run(s) in the last 7 days."
     }
   ],
   "repositories": [
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 12,
+      "commits": 13,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 9,
+      "failed_actions": 8,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
@@ -37,37 +37,37 @@
     {
       "name": "github-privacy-intake",
       "description": "Privacy Intake Application - FastAPI based privacy case management",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "green"
     },
     {
       "name": "github-forge-pipeline",
       "description": "Master planning and tracking for Forge workstreams using GitHub Projects V2",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "green"
     },
     {
       "name": "forge-cloud-control-desk",
       "description": "A lightweight internal operations platform that uses Compute Engine API as the execution layer and Google Workspace/Enterprise APIs as the workflow, evidence, and reporting layer.",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "green"
     },
     {
