@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:39:58.617358+00:00",
+  "generated_at": "2026-11-21T06:29:37.098842+00:00",
   "period": {
     "label": "Live 7-day GitHub report",
     "start": "2026-11-14",
@@ -7,28 +7,28 @@
   },
   "summary": {
     "repositories": 15,
-    "commits": 30,
+    "commits": 27,
     "issues_created": 0,
     "issues_closed": 0,
     "prs_created": 0,
     "prs_merged": 0,
     "comments": 0,
-    "failed_actions": 6
+    "failed_actions": 5
   },
   "attention": [
     {
       "severity": "error",
-      "message": "project-dashboard has 6 failing workflow run(s) in the last 7 days."
+      "message": "project-dashboard has 5 failing workflow run(s) in the last 7 days."
     }
   ],
   "repositories": [
     {
       "name": "project-dashboard",
       "description": "No description.",
-      "commits": 20,
+      "commits": 21,
       "issues_closed": 0,
       "prs_merged": 0,
-      "failed_actions": 6,
+      "failed_actions": 5,
       "dirty": null,
       "sync_state": "not collected",
       "direction": "ACTIVE DELIVERY",
@@ -121,25 +121,25 @@
     {
       "name": "New-Website-Landing-Page",
       "description": "No description.",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "green"
     },
     {
       "name": "Forge",
       "description": "No description.",
-      "commits": 2,
+      "commits": 0,
       "issues_closed": 0,
       "prs_merged": 0,
       "failed_actions": 0,
       "dirty": null,
       "sync_state": "not collected",
-      "direction": "ACTIVE DELIVERY",
+      "direction": "IDLE",
       "attention": "green"
     },
     {

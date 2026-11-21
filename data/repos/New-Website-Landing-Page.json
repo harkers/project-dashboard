@@ -5,11 +5,11 @@
   "visibility": "public",
   "default_branch": "master",
   "language": "Python",
-  "direction": "ACTIVE DELIVERY",
+  "direction": "IDLE",
   "attention": "green",
   "last_activity": "2026-11-14T05:18:35Z",
   "stats": {
-    "commits_7d": 2,
+    "commits_7d": 0,
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
     "open_issues": 0,
@@ -31,16 +31,7 @@
     "readme": null,
     "todo_schema": null
   },
-  "timeline": [
-    {
-      "time": "2026-11-14T05:18:31Z",
-      "text": "commit 6fd1ccb \u2014 [chore] Sync repository standards v1 (0fb86f67)"
-    },
-    {
-      "time": "2026-11-14T05:18:30Z",
-      "text": "commit b47134a \u2014 chore: sync repository standards v1"
-    }
-  ],
+  "timeline": [],
   "work": {
     "issues": [],
     "prs": []
