@@ -4,12 +4,12 @@
   "github_url": "https://github.com/harkers/New-Website-Landing-Page",
   "visibility": "public",
   "default_branch": "master",
-  "language": null,
-  "direction": "IDLE",
+  "language": "Python",
+  "direction": "ACTIVE DELIVERY",
   "attention": "green",
-  "last_activity": "2017-07-16T08:50:15Z",
+  "last_activity": "2026-11-28T05:18:50Z",
   "stats": {
-    "commits_7d": 0,
+    "commits_7d": 4,
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
     "open_issues": 0,
@@ -31,7 +31,24 @@
     "readme": null,
     "todo_schema": null
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "time": "2026-11-27T05:18:32Z",
+      "text": "commit 13576c2 \u2014 [chore] Sync repository standards v1 (1ccc10ee)"
+    },
+    {
+      "time": "2026-11-27T05:18:31Z",
+      "text": "commit d45c886 \u2014 chore: sync repository standards v1"
+    },
+    {
+      "time": "2026-11-24T05:18:32Z",
+      "text": "commit 00464d9 \u2014 [chore] Sync repository standards v1 (1443c909)"
+    },
+    {
+      "time": "2026-11-24T05:18:31Z",
+      "text": "commit 0d1a474 \u2014 chore: sync repository standards v1"
+    }
+  ],
   "work": {
     "issues": [],
     "prs": []

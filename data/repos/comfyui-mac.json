@@ -4,12 +4,12 @@
   "github_url": "https://github.com/harkers/comfyui-mac",
   "visibility": "public",
   "default_branch": "main",
-  "language": "TypeScript",
-  "direction": "IDLE",
+  "language": "Python",
+  "direction": "ACTIVE DELIVERY",
   "attention": "green",
-  "last_activity": "2026-10-07T04:48:04Z",
+  "last_activity": "2026-11-25T05:19:04Z",
   "stats": {
-    "commits_7d": 0,
+    "commits_7d": 2,
     "issues_closed_7d": 0,
     "prs_merged_7d": 0,
     "open_issues": 1,
@@ -31,7 +31,16 @@
     "readme": null,
     "todo_schema": null
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "time": "2026-11-25T05:19:00Z",
+      "text": "commit ea6e440 \u2014 [chore] Sync repository standards v1 (1443c909)"
+    },
+    {
+      "time": "2026-11-25T05:18:59Z",
+      "text": "commit 3246832 \u2014 chore: sync repository standards v1"
+    }
+  ],
   "work": {
     "issues": [],
     "prs": [
